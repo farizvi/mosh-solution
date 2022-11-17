@@ -26,3 +26,13 @@ Run the following command to view components using storybook
 ```
 npm run storybook
 ```
+
+Run the following command to check for linting errors
+```
+npm run lint
+```
+
+Run the following command to fix linting errors
+```
+npm run lint:fix
+```
